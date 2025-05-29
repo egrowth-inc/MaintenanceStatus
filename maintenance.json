@@ -1,4 +1,4 @@
 {
-  "maintenance": false,
-  "message": "現在メンテナンス中ですよ。しばらくお待ちくださいね。3",
+  "maintenance": true,
+  "message": "現在メンテナンス中です。しばらくお待ちください。",
 }
